@@ -45,22 +45,22 @@ Professional Services
 
 Awards and Grants
 ======
-- • 2024 "Huaiqing Cup" National College Students' Artificial Intelligence Competition - Algorithm Category - First Prize.
-- • 2024 APMCM Asia-Pacific Region College Students' Mathematical Modeling Competition - Third Prize.
-- • 2021 Baidu PaddlePaddle: Click Fraud Prevention Prediction Competition - Excellent Modeling Award.
-- • 2021 Global Artificial Intelligence Innovation Competition [Track 3] - 6th Place.
-- • 2017 National College Students' Mathematical Modeling Competition - Hunan Province - Third Prize.
-- • 2018 Ninth "Military Operations Cup" Military Modeling Competition for Military Academies - Second Prize.
-- • CCF (China Computer Federation) student member, artificial intelligence algorithm engineer.
-- • Baidu Intelligent Cloud Generative AI Certified Engineer.
-- • Alibaba Cloud Senior Artificial Intelligence Trainer.
-- • Tencent Cloud Certification - AI Developer Certification.
-- • Huawei HarmonyOS Application Senior Developer.
-- • Datawhale Certification - Prompt Engineer (Prompt Word Engineer).
-- • Datawhale Certification - Agent Engineer (Intelligent System Engineer).
-- • Itronix Solutions Certified - Data Scientist.
-- • Itronix Solutions Certified - AI Engineer.
-- • ITC Certified AI Instructor.
-- • China Management Science Research Institute - Deep Learning Development and Application Engineer.
-- • China Management Science Research Institute - Knowledge Graph Construction and Application Engineer.
-- • Military-Civilian Integration Innovation Talents.
+- 2024 "Huaiqing Cup" National College Students' Artificial Intelligence Competition - Algorithm Category - First Prize.
+- 2024 APMCM Asia-Pacific Region College Students' Mathematical Modeling Competition - Third Prize.
+- 2021 Baidu PaddlePaddle: Click Fraud Prevention Prediction Competition - Excellent Modeling Award.
+- 2021 Global Artificial Intelligence Innovation Competition [Track 3] - 6th Place.
+- 2018 Ninth "Military Operations Cup" Military Modeling Competition for Military Academies - Second Prize.
+- 2017 National College Students' Mathematical Modeling Competition - Hunan Province - Third Prize.
+- CCF (China Computer Federation) student member, artificial intelligence algorithm engineer.
+- Baidu Intelligent Cloud Generative AI Certified Engineer.
+- Alibaba Cloud Senior Artificial Intelligence Trainer.
+- Tencent Cloud Certification - AI Developer Certification.
+- Huawei HarmonyOS Application Senior Developer.
+- Datawhale Certification - Prompt Engineer (Prompt Word Engineer).
+- Datawhale Certification - Agent Engineer (Intelligent System Engineer).
+- Itronix Solutions Certified - Data Scientist.
+- Itronix Solutions Certified - AI Engineer.
+- ITC Certified AI Instructor.
+- China Management Science Research Institute - Deep Learning Development and Application Engineer.
+- China Management Science Research Institute - Knowledge Graph Construction and Application Engineer.
+- Military-Civilian Integration Innovation Talents.
