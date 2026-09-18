@@ -25,19 +25,19 @@ News
 Publications
 ======
 - 1.[Adversarial Cross-domain Community Question Retrieval](https://aiboguo-neurobrainai.github.io/publication/2022-05-31-TALLIP).\
-*Published in ACM Transactions on Asian and Low-Resource Language Information Processing, 2022.*\
+*Published in ACM Transactions on Asian and Low-Resource Language Information Processing, 2022.*
 - 2.[ER-SQL: Learning enhanced representation for Text-to-SQL using table contents]().\
-*Published in Neurocomputing, 2021.*\
+*Published in Neurocomputing, 2021.*
 - 3.[MGICL: Multi-Grained Interaction Contrastive Learning for Multimodal Named Entity Recognition](https://aiboguo-neurobrainai.github.io/publication/2021-08-21-NeuroC).\
-*Published in CIKM 2023, Proceedings of the 32st ACM International Conference on Information and Knowledge Management, 2023.*\
+*Published in CIKM 2023, Proceedings of the 32st ACM International Conference on Information and Knowledge Management, 2023.*
 - 4.[SpCQL: A Semantic Parsing Dataset for Converting Natural Language into Cypher](https://aiboguo-neurobrainai.github.io/publication/2023-10-21-CIKM).\
-*Published in CIKM 2022, Proceedings of the 31st ACM International Conference on Information and Knowledge Management, 2022.*\
+*Published in CIKM 2022, Proceedings of the 31st ACM International Conference on Information and Knowledge Management, 2022.*
 - 5.[A Graph-Based Approach Towards Risk Alerting for COVID-19 Spread](https://aiboguo-neurobrainai.github.io/publication/2019-11-06-LSGDA).\
-*Published in Software Foundations for Data Interoperability and Large Scale Graph Data Analytics (SFDI 2020, LSGDA 2020), 2020.*\
+*Published in Software Foundations for Data Interoperability and Large Scale Graph Data Analytics (SFDI 2020, LSGDA 2020), 2020.*
 - 6.[Triplets Trustworthiness Measurement for Knowledge Graph with Hierarchy Relation Path](https://aiboguo-neurobrainai.github.io/publication/2020-05-01-KSEM).\
-*Published in KSEM 2020, The 13th International Conference on Knowledge Science, Engineering and Management, 2020.*\
+*Published in KSEM 2020, The 13th International Conference on Knowledge Science, Engineering and Management, 2020.*
 - 7.[On Continuously Matching of Evolving Graph Patterns](https://aiboguo-neurobrainai.github.io/publication/2019-11-03-CIKM).\
-*Published in CIKM 2019, Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019.*\
+*Published in CIKM 2019, Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019.*
 
 Professional Services
 ======
