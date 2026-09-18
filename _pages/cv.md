@@ -9,32 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+Basic Information
+======
+* Name: Aibo Guo (郭爱博)
+* Phone: 15304810586 (WeChat ID)
+* Email: AiboGuo@outlook.com
+======
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in College of Systems Engineering, National University of Defense Technology, 2022-2025
+* M.S. in College of Systems Engineering, National University of Defense Technology, 2019-2021
+* B.S. in College of Systems Engineering, National University of Defense Technology, 2015-2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2026 - : Co-Founder & CTO
+  * Sichuan NeuroBrain AI Technology Co., Ltd.
   
 Skills
 ======
-* Skill 1
+* Language Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
