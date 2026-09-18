@@ -24,10 +24,10 @@ News
 
 Publications
 ======
-- 1.[Adversarial Cross-domain Community Question Retrieval](https://aiboguo-neurobrainai.github.io/publication/2022-05-31-TALLIP).
-Published in ACM Transactions on Asian and Low-Resource Language Information Processing, 2022.
-- 2.[ER-SQL: Learning enhanced representation for Text-to-SQL using table contents]().
-Published in Neurocomputing, 2021.
+- 1.[Adversarial Cross-domain Community Question Retrieval](https://aiboguo-neurobrainai.github.io/publication/2022-05-31-TALLIP).\\
+Published in ACM Transactions on Asian and Low-Resource Language Information Processing, 2022.\\
+- 2.[ER-SQL: Learning enhanced representation for Text-to-SQL using table contents]().\\
+Published in Neurocomputing, 2021.\\
 - 3.[MGICL: Multi-Grained Interaction Contrastive Learning for Multimodal Named Entity Recognition](https://aiboguo-neurobrainai.github.io/publication/2021-08-21-NeuroC).
 Published in CIKM 2023, Proceedings of the 32st ACM International Conference on Information and Knowledge Management, 2023.
 - 4.[SpCQL: A Semantic Parsing Dataset for Converting Natural Language into Cypher](https://aiboguo-neurobrainai.github.io/publication/2023-10-21-CIKM).
