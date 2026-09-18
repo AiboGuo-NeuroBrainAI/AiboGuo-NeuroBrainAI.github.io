@@ -49,7 +49,7 @@ Awards and Grants
 - 2021 Global Artificial Intelligence Innovation Competition [Track 3] - 6th Place.
 - 2018 Ninth "Military Operations Cup" Military Modeling Competition for Military Academies - Second Prize.
 - 2017 National College Students' Mathematical Modeling Competition - Hunan Province - Third Prize.
-- CCF (China Computer Federation) student member, artificial intelligence algorithm engineer.
+- CCF (China Computer Federation) member, artificial intelligence algorithm engineer.
 - Baidu Intelligent Cloud Generative AI Certified Engineer.
 - Alibaba Cloud Senior Artificial Intelligence Trainer.
 - Tencent Cloud Certification - AI Developer Certification.
