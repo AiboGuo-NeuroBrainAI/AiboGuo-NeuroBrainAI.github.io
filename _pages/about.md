@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Aibo Guo (郭爱博) is a doctoral graduate from National University of Defense Technology, under the supervision of Professor Xiao Weidong and co-supervised by Professor [Xiang Zhao](https://xiangz-nudt.github.io/) and Associate Professor [Zhen Tan](). He is a jointly cultivated doctoral student at Fudan University, under the guidance of Professor [Yanghua Xiao](https://kw.fudan.edu.cn/people/xiaoyanghua/). 
+Aibo Guo (郭爱博) is a doctoral graduate from National University of Defense Technology, under the supervision of Professor [Weidong Xiao](https://xueshu.baidu.com/scholarID/CN-BJ75IHOJ) and co-supervised by Professor [Xiang Zhao](https://xiangz-nudt.github.io/) and Associate Professor [Zhen Tan](https://orcid.org/0000-0001-8643-4683). He is a jointly cultivated doctoral student at Fudan University, under the guidance of Professor [Yanghua Xiao](https://kw.fudan.edu.cn/people/xiaoyanghua/). 
 Currently, he is the co-founder and CTO of Sichuan NeuroBrain AI Technology Co., Ltd.
 Guo's research interests include: Large Language Model, World Model, Knowledge Graphs and Brain-Inspired Intelligence.
 
