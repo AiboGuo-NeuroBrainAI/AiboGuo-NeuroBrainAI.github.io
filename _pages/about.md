@@ -15,14 +15,14 @@ Guo's research interests include: Large Language Model, World Model, Knowledge G
 
 News
 ======
-- \[2026.09.07\] The self-developed AI Coding agent "Code Chamber" was officially completed the research and development work.
-- \[2026.08.10\] The architecture of the self-developed model NeuroBrain v1.0 was officially completed. v1.0 adopts the B-I framework (Brain-Inspired), supports text, images, audio, video, documents and agent modalities, and provides Dense/MoE architectures and configurable options ranging from 0.5B to 1T parameters.
-- \[2026.06.22\] Vernex v1.0 began to provide service support to the outside world.
-- \[2026.05.24\] The development and testing work of Vernex v1.0 was completed.
-- \[2026.04.30\] The first batch of AI-enabled business scenarios were determined, and the development work of the Vernex cross-border trade service platform was initiated.
-- \[2026.04.10\] Sichuan NeuroBrain AI Technology Co., Ltd. was officially established.
-- \[2026.03.20\] The self-developed model v0.1 was completed after development and testing, and was officially named NeuroBrain.
-- \[2026.03.10\] The team was officially established.
+- *\[2026.09.07\] The self-developed AI Coding agent "Code Chamber" was officially completed the research and development work.*
+- *\[2026.08.10\] The architecture of the self-developed model NeuroBrain v1.0 was officially completed. v1.0 adopts the B-I framework (Brain-Inspired), supports text, images, audio, video, documents and agent modalities, and provides Dense/MoE architectures and configurable options ranging from 0.5B to 1T parameters.*
+- *\[2026.06.22\] [Vernex](https://www.vernexmall.com/) v1.0 began to provide service support to the outside world.*
+- *\[2026.05.24\] The development and testing work of [Vernex](https://www.vernexmall.com/) v1.0 was completed.*
+- *\[2026.04.30\] The first batch of AI-enabled business scenarios were determined, and the development work of the Vernex cross-border trade service platform was initiated.*
+- *\[2026.04.10\] [Sichuan NeuroBrain AI Technology Co., Ltd.](https://www.neurobrainai.tech/) was officially established.*
+- *\[2026.03.20\] The self-developed model v0.1 was completed after development and testing, and was officially named NeuroBrain.*
+- *\[2026.03.10\] The team was officially established.*
 
 Publications
 ======
@@ -40,10 +40,6 @@ Publications
 *Published in KSEM 2020, The 13th International Conference on Knowledge Science, Engineering and Management, 2020.*
 - 7.[On Continuously Matching of Evolving Graph Patterns](https://aiboguo-neurobrainai.github.io/publication/2019-11-03-CIKM).\
 *Published in CIKM 2019, Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019.*
-
-Professional Services
-======
-
 
 Awards and Grants
 ======
@@ -66,3 +62,7 @@ Awards and Grants
 - China Management Science Research Institute - Deep Learning Development and Application Engineer.
 - China Management Science Research Institute - Knowledge Graph Construction and Application Engineer.
 - Military-Civilian Integration Innovation Talents.
+- 
+Professional Services
+======
+
