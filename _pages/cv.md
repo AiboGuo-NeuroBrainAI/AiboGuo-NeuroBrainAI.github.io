@@ -12,7 +12,6 @@ redirect_from:
 Basic Information
 ======
 * Name: Aibo Guo (郭爱博)
-* Phone: 15304810586 (WeChat ID)
 * Email: AiboGuo@outlook.com
 
 
